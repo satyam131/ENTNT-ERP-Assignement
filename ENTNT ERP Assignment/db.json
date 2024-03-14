@@ -1,0 +1,510 @@
+{
+  "products": [
+    {
+      "productId": 1,
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99,
+      "stockQuantity": 50,
+      "id": "f3d8"
+    },
+    {
+      "productId": 2,
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 499.99,
+      "stockQuantity": 100,
+      "id": "5230"
+    },
+    {
+      "productId": 3,
+      "name": "Headphones",
+      "category": "Electronics",
+      "price": 79.99,
+      "stockQuantity": 75,
+      "id": "c1ad"
+    },
+    {
+      "productId": 4,
+      "name": "Smart TV",
+      "category": "Electronics",
+      "price": 899.99,
+      "stockQuantity": 30,
+      "id": "80e0"
+    },
+    {
+      "productId": 5,
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 299.99,
+      "stockQuantity": 60,
+      "id": "496b"
+    },
+    {
+      "productId": 6,
+      "name": "Fitness Tracker",
+      "category": "Wearables",
+      "price": 49.99,
+      "stockQuantity": 120,
+      "id": "4dea"
+    },
+    {
+      "productId": 7,
+      "name": "Gaming Console",
+      "category": "Electronics",
+      "price": 399.99,
+      "stockQuantity": 25,
+      "id": "1692"
+    },
+    {
+      "productId": 8,
+      "name": "Digital Camera",
+      "category": "Electronics",
+      "price": 299.99,
+      "stockQuantity": 40,
+      "id": "b4ae"
+    },
+    {
+      "productId": 9,
+      "name": "Coffee Maker",
+      "category": "Appliances",
+      "price": 49.99,
+      "stockQuantity": 30,
+      "id": "ec00"
+    },
+    {
+      "productId": 10,
+      "name": "External Hard Drive",
+      "category": "Electronics",
+      "price": 79.99,
+      "stockQuantity": 50,
+      "id": "56b7"
+    },
+    {
+      "productId": 11,
+      "name": "Wireless Mouse",
+      "category": "Accessories",
+      "price": 19.99,
+      "stockQuantity": 80,
+      "id": "7ac7"
+    },
+    {
+      "productId": 12,
+      "name": "Printer",
+      "category": "Electronics",
+      "price": 129.99,
+      "stockQuantity": 35,
+      "id": "7a3f"
+    },
+    {
+      "productId": 13,
+      "name": "Bluetooth Earbuds",
+      "category": "Accessories",
+      "price": 29.99,
+      "stockQuantity": 75,
+      "id": "055a"
+    },
+    {
+      "productId": 14,
+      "name": "Desk Chair",
+      "category": "Furniture",
+      "price": 149.99,
+      "stockQuantity": 20,
+      "id": "7a4a"
+    },
+    {
+      "productId": 15,
+      "name": "Microwave Oven",
+      "category": "Appliances",
+      "price": 89.99,
+      "stockQuantity": 40,
+      "id": "fdaf"
+    },
+    {
+      "productId": 16,
+      "name": "Wireless Router",
+      "category": "Electronics",
+      "price": 59.99,
+      "stockQuantity": 60,
+      "id": "7004"
+    },
+    {
+      "productId": 17,
+      "name": "Toaster",
+      "category": "Appliances",
+      "price": 39.99,
+      "stockQuantity": 45,
+      "id": "375e"
+    },
+    {
+      "productId": 18,
+      "name": "Blender",
+      "category": "Appliances",
+      "price": 49.99,
+      "stockQuantity": 25,
+      "id": "30dd"
+    }
+  ],
+  "orders": [
+    {
+      "orderId": 101,
+      "productId": 1,
+      "productName": "Laptop",
+      "customerName": "John Doe",
+      "orderDate": "2024-03-11",
+      "status": "Pending",
+      "id": "98b1"
+    },
+    {
+      "orderId": 102,
+      "productId": 2,
+      "productName": "Smartphone",
+      "customerName": "Jane Smith",
+      "orderDate": "2024-03-12",
+      "status": "Shipped",
+      "id": "00d5"
+    },
+    {
+      "orderId": 103,
+      "productId": 5,
+      "productName": "Tablet",
+      "customerName": "Robert Johnson",
+      "orderDate": "2024-03-13",
+      "status": "Processing",
+      "id": "55f9"
+    },
+    {
+      "orderId": 104,
+      "productId": 8,
+      "productName": "Digital Camera",
+      "customerName": "Emily White",
+      "orderDate": "2024-03-14",
+      "status": "Delivered",
+      "id": "f732"
+    },
+    {
+      "orderId": 105,
+      "productId": 12,
+      "productName": "Printer",
+      "customerName": "Michael Brown",
+      "orderDate": "2024-03-15",
+      "status": "Pending",
+      "id": "f5d9"
+    },
+    {
+      "orderId": 106,
+      "productId": 15,
+      "productName": "Microwave Oven",
+      "customerName": "Olivia Davis",
+      "orderDate": "2024-03-16",
+      "status": "Shipped",
+      "id": "765e"
+    },
+    {
+      "orderId": 107,
+      "productId": 18,
+      "productName": "Blender",
+      "customerName": "Daniel Wilson",
+      "orderDate": "2024-03-17",
+      "status": "Processing",
+      "id": "2e72"
+    },
+    {
+      "orderId": 108,
+      "productId": 20,
+      "productName": "Electric Shaver",
+      "customerName": "Sophia Miller",
+      "orderDate": "2024-03-18",
+      "status": "Delivered",
+      "id": "cbaa"
+    },
+    {
+      "orderId": 109,
+      "productId": 3,
+      "productName": "Headphones",
+      "customerName": "Aiden Martinez",
+      "orderDate": "2024-03-19",
+      "status": "Pending",
+      "id": "0a0c"
+    },
+    {
+      "orderId": 110,
+      "productId": 7,
+      "productName": "Gaming Console",
+      "customerName": "Emma Taylor",
+      "orderDate": "2024-03-20",
+      "status": "Shipped",
+      "id": "8330"
+    },
+    {
+      "orderId": 111,
+      "productId": 11,
+      "productName": "Wireless Mouse",
+      "customerName": "Ethan Anderson",
+      "orderDate": "2024-03-21",
+      "status": "Shipped",
+      "id": "1db3"
+    },
+    {
+      "orderId": 112,
+      "productId": 14,
+      "productName": "Fitness Tracker",
+      "customerName": "Isabella Moore",
+      "orderDate": "2024-03-22",
+      "status": "Processing",
+      "id": "dcb6"
+    },
+    {
+      "orderId": 113,
+      "productId": 17,
+      "productName": "Smart TV",
+      "customerName": "Mason Garcia",
+      "orderDate": "2024-03-23",
+      "status": "Delivered",
+      "id": "41cd"
+    },
+    {
+      "orderId": 114,
+      "productId": 19,
+      "productName": "Coffee Maker",
+      "customerName": "Ava Brown",
+      "orderDate": "2024-03-24",
+      "status": "Pending",
+      "id": "6d7c"
+    },
+    {
+      "orderId": 115,
+      "productId": 4,
+      "productName": "External Hard Drive",
+      "customerName": "Logan Wilson",
+      "orderDate": "2024-03-25",
+      "status": "Shipped",
+      "id": "92c8"
+    },
+    {
+      "orderId": 116,
+      "productId": 9,
+      "productName": "Portable Speaker",
+      "customerName": "Harper Taylor",
+      "orderDate": "2024-03-26",
+      "status": "Processing",
+      "id": "7f8c"
+    },
+    {
+      "orderId": 117,
+      "productId": 13,
+      "productName": "Security Camera",
+      "customerName": "Carter Martinez",
+      "orderDate": "2024-03-27",
+      "status": "Delivered",
+      "id": "e4b1"
+    },
+    {
+      "orderId": 118,
+      "productId": 16,
+      "productName": "Air Purifier",
+      "customerName": "Madison Davis",
+      "orderDate": "2024-03-28",
+      "status": "Shipped",
+      "id": "232a"
+    },
+    {
+      "orderId": 119,
+      "productId": 17,
+      "productName": "Mask Purifier",
+      "customerName": "Satyam Davis",
+      "orderDate": "2024-03-27",
+      "status": "Pending",
+      "id": "242a"
+    },
+    {
+      "orderId": 120,
+      "productId": 6,
+      "productName": "Smart Watch",
+      "customerName": "Liam Johnson",
+      "orderDate": "2024-03-30",
+      "status": "Processing",
+      "id": "9e5f"
+    },
+    {
+      "orderId": 121,
+      "productId": 10,
+      "productName": "Wireless Earbuds",
+      "customerName": "Charlotte Wilson",
+      "orderDate": "2024-03-31",
+      "status": "Shipped",
+      "id": "a8b2"
+    },
+    {
+      "orderId": 122,
+      "productId": 18,
+      "productName": "Hand Blender",
+      "customerName": "Lucas Miller",
+      "orderDate": "2024-04-01",
+      "status": "Delivered",
+      "id": "f3c7"
+    },
+    {
+      "orderId": 123,
+      "productId": 21,
+      "productName": "Rice Cooker",
+      "customerName": "Ella Martinez",
+      "orderDate": "2024-04-02",
+      "status": "Pending",
+      "id": "1b9d"
+    },
+    {
+      "orderId": 124,
+      "productId": 1,
+      "productName": "Laptop",
+      "customerName": "Noah Brown",
+      "orderDate": "2024-04-03",
+      "status": "Shipped",
+      "id": "4e6a"
+    },
+    {
+      "orderId": 125,
+      "productId": 5,
+      "productName": "Tablet",
+      "customerName": "Avery Garcia",
+      "orderDate": "2024-04-04",
+      "status": "Processing",
+      "id": "7f4b"
+    },
+    {
+      "orderId": 126,
+      "productId": 11,
+      "productName": "Wireless Mouse",
+      "customerName": "Mia Anderson",
+      "orderDate": "2024-04-05",
+      "status": "Delivered",
+      "id": "b2d8"
+    },
+    {
+      "orderId": 127,
+      "productId": 15,
+      "productName": "Microwave Oven",
+      "customerName": "Jackson White",
+      "orderDate": "2024-04-06",
+      "status": "Pending",
+      "id": "3a2f"
+    },
+    {
+      "orderId": 128,
+      "productId": 20,
+      "productName": "Electric Shaver",
+      "customerName": "Scarlett Taylor",
+      "orderDate": "2024-04-07",
+      "status": "Shipped",
+      "id": "8d1e"
+    },
+    {
+      "orderId": 129,
+      "productId": 3,
+      "productName": "Headphones",
+      "customerName": "James Smith",
+      "orderDate": "2024-04-08",
+      "status": "Processing",
+      "id": "6b4f"
+    },
+    {
+      "orderId": 130,
+      "productId": 7,
+      "productName": "Gaming Console",
+      "customerName": "Amelia Wilson",
+      "orderDate": "2024-04-09",
+      "status": "Delivered",
+      "id": "9c3b"
+    },
+    {
+      "orderId": 131,
+      "productId": 14,
+      "productName": "Fitness Tracker",
+      "customerName": "Benjamin Davis",
+      "orderDate": "2024-04-10",
+      "status": "Pending",
+      "id": "2e7a"
+    },
+    {
+      "orderId": 132,
+      "productId": 19,
+      "productName": "Coffee Maker",
+      "customerName": "Victoria Moore",
+      "orderDate": "2024-04-11",
+      "status": "Shipped",
+      "id": "f7e6"
+    },
+    {
+      "orderId": 133,
+      "productId": 4,
+      "productName": "External Hard Drive",
+      "customerName": "Charles Johnson",
+      "orderDate": "2024-04-12",
+      "status": "Processing",
+      "id": "0b1d"
+    },
+    {
+      "orderId": 134,
+      "productId": 9,
+      "productName": "Portable Speaker",
+      "customerName": "Grace Wilson",
+      "orderDate": "2024-04-13",
+      "status": "Delivered",
+      "id": "5a9d"
+    },
+    {
+      "orderId": 135,
+      "productId": 13,
+      "productName": "Security Camera",
+      "customerName": "Christopher Martinez",
+      "orderDate": "2024-04-14",
+      "status": "Pending",
+      "id": "cd72"
+    },
+    {
+      "orderId": 136,
+      "productId": 16,
+      "productName": "Air Purifier",
+      "customerName": "Zoey Davis",
+      "orderDate": "2024-04-15",
+      "status": "Shipped",
+      "id": "6e2b"
+    },
+    {
+      "orderId": 137,
+      "productId": 21,
+      "productName": "Rice Cooker",
+      "customerName": "Aaron Brown",
+      "orderDate": "2024-04-16",
+      "status": "Processing",
+      "id": "d4c8"
+    },
+    {
+      "orderId": 138,
+      "productId": 6,
+      "productName": "Smart Watch",
+      "customerName": "Lily Wilson",
+      "orderDate": "2024-04-17",
+      "status": "Delivered",
+      "id": "9d3f"
+    },
+    {
+      "orderId": 139,
+      "productId": 10,
+      "productName": "Wireless Earbuds",
+      "customerName": "Owen Martinez",
+      "orderDate": "2024-04-18",
+      "status": "Pending",
+      "id": "a5b9"
+    },
+    {
+      "orderId": 140,
+      "productId": 12,
+      "productName": "Printer",
+      "customerName": "Evelyn Johnson",
+      "orderDate": "2024-04-19",
+      "status": "Shipped",
+      "id": "8c3d"
+    }
+  ]
+}
