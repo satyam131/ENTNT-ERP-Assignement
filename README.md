@@ -11,7 +11,6 @@ Welcome to our simplified ERP (Enterprise Resource Planning) system! This system
 3. [Usage](#usage)
 4. [Technologies Used](#technologies-used)
 5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Project Overview
 This project consists of several components:
