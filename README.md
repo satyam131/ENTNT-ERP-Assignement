@@ -10,7 +10,7 @@ Welcome to our simplified ERP (Enterprise Resource Planning) system! This system
 2. [Setup Instructions](#setup-instructions)
 3. [Usage](#usage)
 4. [Technologies Used](#technologies-used)
-5. [Contributing](#contributing)
+
 
 ## Project Overview
 This project consists of several components:
