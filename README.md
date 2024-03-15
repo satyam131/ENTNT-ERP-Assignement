@@ -1,7 +1,7 @@
 # ENTNT-ERP-Assignement
 ERP system frontend built with React, featuring dashboard, product and order management, with optional calendar view
 
-[![ERP SYSTEM ASSIGNMENT DRIVE VIDEO LINK](https://www.google.com/imgres?imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F314%2F584%2Fpng-transparent-computer-icons-video-display-resolution-others-angle-text-rectangle-thumbnail.png&tbnid=C1wo8316MFNvhM&vet=12ahUKEwjKzMCaz_WEAxU07TgGHfTWB00QMygGegQIARB_..i&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dvideo%2BIcon&docid=Z90Gg27gLn4gwM&w=360&h=360&q=video%20icon&ved=2ahUKEwjKzMCaz_WEAxU07TgGHfTWB00QMygGegQIARB_)]([https://your-custom-video-url](https://drive.google.com/file/d/1VazZdUpVhTlHSyd8WYO3MZjM43DEJCEC/view?usp=drive_link))
+[ERP SYSTEM Assignment Link](https://drive.google.com/file/d/1VazZdUpVhTlHSyd8WYO3MZjM43DEJCEC/view?usp=drive_link)
 
 # ERP System
 
